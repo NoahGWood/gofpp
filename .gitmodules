@@ -1,0 +1,3 @@
+[submodule "vendor/NTest"]
+	path = vendor/NTest
+	url = https://github.com/NoahGWood/NTest
