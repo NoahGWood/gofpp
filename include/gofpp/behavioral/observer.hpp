@@ -41,32 +41,33 @@
 
 namespace gofpp
 {
-    template<typename Event, typename ThreadPolicy = SingleThreaded>
-    class Observable : private ThreadPolicy {
-        public:
-            using Handler = std::function<void(const Event& e)>;
-
-            int subscribe(Handler handler) {
-                typename ThreadPolicy::Lock lock(*this);
-                int id = next_id++;
-                handlers[id] = std::move(handler);
-                return id;
-            }
-
-            void unsubscribe(int id) {
-                typename ThreadPolicy::Lock lock(*this);
-                handlers.erase(id);
-            }
-
-            void notify(const Event& event) {
-                typename ThreadPolicy::Lock lock(*this);
-                for (auto& [_, handler] : handlers) {
-                    handler(event);
-                }
-            }
-
-        private:
-            std::unordered_map<int, Handler> handlers;
-            int next_id = 0;
+    // Generic Observer interface
+    template<typename T>
+    class Observer {
+    public:
+        virtual ~Observer() = default;
+        virtual void onNotify(const T& event) = 0;
     };
+
+    // Observable (subject)
+    template<typename T, typename ThreadPolicy = SingleThreaded>
+    class Observable {
+    public:
+        void subscribe(Observer<T>* obs) {
+            observers.push_back(obs);
+        }
+
+        void unsubscribe(Observer<T>* obs) {
+            observers.erase(std::remove(observers.begin(), observers.end(), obs), observers.end());
+        }
+
+        void notify(const T& event) {
+            for (auto* obs : observers) {
+                obs->onNotify(event);
+            }
+        }
+
+    private:
+        std::vector<Observer<T>*> observers;
+    };    
 } // namespace gofpp

@@ -1,33 +1,39 @@
 #include <NTest.h>
 #include <gofpp/behavioral/observer.hpp>
 
-using namespace gofpp;
+struct TestEvent {
+    int data;
+};
 
-struct TestEvent { int data; };
+// Simple observer for testing
+struct TestObserver : gofpp::Observer<TestEvent> {
+    bool called = false;
+    int lastData = 0;
+
+    void onNotify(const TestEvent& e) override {
+        called = true;
+        lastData = e.data;
+    }
+};
 
 TEST(Observer_Notify) {
-    Observable<TestEvent> obs;
-    bool called = false;
-
-    int id = obs.subscribe([&](const TestEvent& e) {
-        ASSERT_EQ(e.data, 42);
-        called = true;
-    });
+    gofpp::Observable<TestEvent> obs;
+    TestObserver o;
+    obs.subscribe(&o);
 
     obs.notify({42});
-    ASSERT_TRUE(called);
+    ASSERT_TRUE(o.called);
+    ASSERT_EQ(o.lastData, 42);
 }
 
 TEST(Observer_Unsubscribe) {
-    Observable<TestEvent> obs;
-    bool called = false;
+    gofpp::Observable<TestEvent> obs;
+    TestObserver o;
+    obs.subscribe(&o);
 
-    int id = obs.subscribe([&](const TestEvent&) { called = true; });
-    obs.unsubscribe(id);
-    obs.notify({1});
-    ASSERT_FALSE(called);
+    obs.unsubscribe(&o);
+    obs.notify({99});
+    ASSERT_FALSE(o.called);
 }
 
-int main() {
-    return NTest::run_all();
-}
+int main() { return NTest::run_all(); }
