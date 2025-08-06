@@ -1,7 +1,27 @@
 var searchData=
 [
-  ['visit_0',['visit',['../classgofpp_1_1Visitor.html#ab8f020194ce35ccb78f069b497152a40',1,'gofpp::Visitor']]],
-  ['visitable_1',['Visitable',['../classgofpp_1_1Visitable.html',1,'gofpp']]],
-  ['visitor_2',['Visitor',['../classgofpp_1_1Visitor.html',1,'gofpp']]],
-  ['visitor_2ehpp_3',['visitor.hpp',['../visitor_8hpp.html',1,'']]]
+  ['ranges_0',['ranges',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md165',1,'(3) Missing glyph ranges.'],['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md187',1,'Excluding Overlapping Ranges'],['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md196',1,'Using Custom Glyph Ranges']]],
+  ['rasterizer_20imgui_5ffreetype_1',['Using FreeType Rasterizer (imgui_freetype)',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md190',1,'']]],
+  ['reacting_20when_20i_20click_20on_20it_2',['Q: Why is my widget not reacting when I click on it?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md106',1,'']]],
+  ['reacting_20when_20i_20click_20on_20one_3',['Q: Why is the wrong widget reacting when I click on one?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md107',1,'']]],
+  ['readme_2emd_4',['readme.md',['../vendor_2imgui_2docs_2README_8md.html',1,'(Global Namespace)'],['../README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2vendor_2NCLI_2README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl3__opengl3_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__allegro5_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__apple__metal_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__glfw__wgpu_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__opengl2_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__opengl3_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__sdlrenderer2_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2misc_2freetype_2README_8md.html',1,'(Global Namespace)']]],
+  ['recommended_20backends_5',['Recommended Backends',['../md_vendor_2imgui_2docs_2BACKENDS.html#autotoc_md51',1,'']]],
+  ['redo_6',['redo',['../classgofpp_1_1CommandStack.html#ac170f965de492fa323d8fd737d19e7a8',1,'gofpp::CommandStack']]],
+  ['registertype_7',['registerType',['../classgofpp_1_1Factory.html#a482dfb072250f34c0ca706453d4f630c',1,'gofpp::Factory']]],
+  ['regular_20fonts_8',['REGULAR FONTS',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md218',1,'']]],
+  ['releases_20changelogs_9',['Releases &amp; Changelogs',['..//home/runner/work/gofpp/gofpp/vendor/imgui/docs/README.md#autotoc_md225',1,'']]],
+  ['remote_20display_10',['Q: How can I use this on a machine without mouse, keyboard or screen? (input share, remote display)',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md91',1,'']]],
+  ['remove_11',['remove',['../classgofpp_1_1Composite.html#aeb8c157081394a85ee9ff6945919d899',1,'gofpp::Composite']]],
+  ['render_12',['render',['../classAppFacade.html#a919501b510c2cbd2524d909b46d9f066',1,'AppFacade']]],
+  ['renderdrawdata_20function_13',['Rendering: Implementing your RenderDrawData function',['../md_vendor_2imgui_2docs_2BACKENDS.html#autotoc_md56',1,'']]],
+  ['rendering_3a_20adding_20support_20for_20tt_20imguibackendflags_5frendererhastextures_20tt_201_2092_14',['Rendering: Adding support for &lt;tt&gt;ImGuiBackendFlags_RendererHasTextures&lt;/tt&gt; (1.92+)',['../md_vendor_2imgui_2docs_2BACKENDS.html#autotoc_md57',1,'']]],
+  ['rendering_3a_20implementing_20your_20renderdrawdata_20function_15',['Rendering: Implementing your RenderDrawData function',['../md_vendor_2imgui_2docs_2BACKENDS.html#autotoc_md56',1,'']]],
+  ['renderui_16',['renderui',['../structBasicState.html#a098905f7b5d5c611c99153997e3e8855',1,'BasicState::renderUI()'],['../structScientificState.html#aadbec4669120f93aa0904bfef41c6297',1,'ScientificState::renderUI()'],['../structCalculatorState.html#a6fd6be507b734013c70e8fbbfbf1f153',1,'CalculatorState::renderUI()']]],
+  ['repository_17',['Credits/Licenses For Fonts Included In Repository',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md214',1,'']]],
+  ['request_18',['How to open a Pull Request',['../md_vendor_2imgui_2docs_2CONTRIBUTING.html#autotoc_md63',1,'']]],
+  ['reset_19',['reset',['../classgofpp_1_1IBuilder.html#a29ba0f4f86dab98b0b12c1650ac1206f',1,'gofpp::IBuilder']]],
+  ['reskin_20the_20look_20of_20dear_20imgui_20',['Q: Can you reskin the look of Dear ImGui?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md150',1,'']]],
+  ['restore_21',['restore',['../structCalcOriginator.html#a2f1884be32f96d290366dc05d667e0aa',1,'CalcOriginator']]],
+  ['result_22',['result',['../structCalcCommand.html#a64ab07f67c19b61649b8e4662771566c',1,'CalcCommand::result'],['../structCalcOriginator.html#a1e80ce38e729c33db59c6b2ccaf952f0',1,'CalcOriginator::result']]],
+  ['run_23',['run',['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md274',1,'2. Compile and run'],['..//home/runner/work/gofpp/gofpp/vendor/imgui/examples/example_glfw_wgpu/README.md#autotoc_md241',1,'How to Run'],['../classgofpp_1_1TemplateBase.html#a2057acb74e80cedaa94508b790d56bca',1,'gofpp::TemplateBase::run()']]]
 ];

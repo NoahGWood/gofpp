@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['observable_0',['Observable',['../classgofpp_1_1Observable.html',1,'gofpp']]]
+  ['mediator_0',['Mediator',['../classgofpp_1_1Mediator.html',1,'gofpp']]],
+  ['memento_1',['Memento',['../structgofpp_1_1Memento.html',1,'gofpp']]],
+  ['multithreaded_2',['MultiThreaded',['../structgofpp_1_1MultiThreaded.html',1,'gofpp']]]
 ];

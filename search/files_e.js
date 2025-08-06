@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['template_5fmethod_2ehpp_0',['template_method.hpp',['../template__method_8hpp.html',1,'']]],
-  ['threading_2ehpp_1',['threading.hpp',['../threading_8hpp.html',1,'']]]
+  ['singleton_2ehpp_0',['singleton.hpp',['../singleton_8hpp.html',1,'']]],
+  ['state_2ehpp_1',['state.hpp',['../state_8hpp.html',1,'']]],
+  ['states_2ehpp_2',['states.hpp',['../states_8hpp.html',1,'']]],
+  ['strategy_2ehpp_3',['strategy.hpp',['../strategy_8hpp.html',1,'']]]
 ];

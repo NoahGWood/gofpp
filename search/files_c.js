@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['readme_2emd_0',['readme.md',['../README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2vendor_2NCLI_2README_8md.html',1,'(Global Namespace)']]]
+  ['philosophy_2emd_0',['PHILOSOPHY.md',['../PHILOSOPHY_8md.html',1,'']]],
+  ['prototype_2ehpp_1',['prototype.hpp',['../prototype_8hpp.html',1,'']]],
+  ['proxy_2ehpp_2',['proxy.hpp',['../proxy_8hpp.html',1,'']]]
 ];

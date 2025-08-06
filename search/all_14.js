@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['new_20patterns_0',['4. Adding New Patterns',['../md_docs_2CONTRIBUTING.html#autotoc_md9',1,'']]],
-  ['next_1',['next',['../classgofpp_1_1Handler.html#a4ae77ce91e294f0fdf8565e31f636650',1,'gofpp::Handler::next'],['../classgofpp_1_1Iterator.html#ab64e432054cd35ca7d170bb7f5699989',1,'gofpp::Iterator::next()']]],
-  ['not_20a_20framework_2',['Not a Framework',['../md_docs_2PHILOSOPHY.html#autotoc_md27',1,'']]],
-  ['notify_3',['notify',['../classgofpp_1_1Observable.html#af9fccfc9e165e12e8495ba08ae43ebec',1,'gofpp::Observable::notify()'],['../classgofpp_1_1Mediator.html#a40551eb07bb81634d18735635e0b2d62',1,'gofpp::Mediator::notify()']]]
+  ['key_20features_0',['Key Features',['../proxy_8hpp.html#features',1,'']]],
+  ['keyboard_20or_20gamepad_20controls_1',['Q: How can I enable keyboard or gamepad controls?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md88',1,'']]],
+  ['keyboard_20or_20screen_20input_20share_20remote_20display_2',['Q: How can I use this on a machine without mouse, keyboard or screen? (input share, remote display)',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md91',1,'']]],
+  ['keyboard_20to_20dear_20imgui_20or_20my_20application_3',['Q: How can I tell whether to dispatch mouse/keyboard to Dear ImGui or my application?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md85',1,'']]],
+  ['known_20issues_4',['Known issues',['..//home/runner/work/gofpp/gofpp/vendor/imgui/misc/freetype/README.md#autotoc_md260',1,'']]],
+  ['korean_20cyrillic_5',['Q: How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md140',1,'']]]
 ];

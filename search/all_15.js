@@ -1,9 +1,25 @@
 var searchData=
 [
-  ['observable_0',['Observable',['../classgofpp_1_1Observable.html',1,'gofpp']]],
-  ['observer_2ehpp_1',['observer.hpp',['../observer_8hpp.html',1,'']]],
-  ['operation_2',['operation',['../classgofpp_1_1Composite.html#a5a6ca0cd9031f26e9e576b92dcb2bc01',1,'gofpp::Composite']]],
-  ['operator_3d_3',['operator=',['../classgofpp_1_1Singleton.html#a15f04b491d8993cbbc9625ad2fde1e2f',1,'gofpp::Singleton']]],
-  ['output_4',['Example Output',['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md56',1,'']]],
-  ['overview_5',['Patterns Overview',['../index.html#autotoc_md37',1,'']]]
+  ['label_0',['label',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md109',1,'Q: How can I have multiple widgets with the same label?'],['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md110',1,'Q: How can I have multiple windows with the same label?'],['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md108',1,'Q: How can I have widgets with an empty label?']]],
+  ['latin_20characters_20such_20as_20chinese_20japanese_20korean_20cyrillic_1',['Q: How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md140',1,'']]],
+  ['level_20imdrawlist_20api_2',['Q: How can I display custom shapes? (using low-level ImDrawList API)',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md126',1,'']]],
+  ['library_20called_3',['Q. What is this library called?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md75',1,'']]],
+  ['license_4',['license',['..//home/runner/work/gofpp/gofpp/vendor/NTest/vendor/NCLI/README.md#autotoc_md286',1,'License'],['../index.html#autotoc_md43',1,'License'],['../md_vendor_2NTest_2vendor_2NCLI_2LICENSE.html',1,'LICENSE'],['..//home/runner/work/gofpp/gofpp/vendor/imgui/docs/README.md#autotoc_md233',1,'License'],['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md280',1,'License']]],
+  ['license_20agreement_5',['Copyright / Contributor License Agreement',['../md_vendor_2imgui_2docs_2CONTRIBUTING.html#autotoc_md64',1,'']]],
+  ['license_2emd_6',['LICENSE.md',['../LICENSE_8md.html',1,'']]],
+  ['licenses_20for_20fonts_20included_20in_20repository_7',['Credits/Licenses For Fonts Included In Repository',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md214',1,'']]],
+  ['links_8',['Font Links',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md216',1,'']]],
+  ['linux_20and_20similar_20unixes_9',['linux and similar unixes',['..//home/runner/work/gofpp/gofpp/vendor/imgui/examples/example_sdl3_opengl3/README.md#autotoc_md253',1,'Linux and similar Unixes'],['..//home/runner/work/gofpp/gofpp/vendor/imgui/examples/example_sdl2_opengl3/README.md#autotoc_md246',1,'Linux and similar Unixes']]],
+  ['list_20of_20standard_20backends_10',['List of standard Backends',['../md_vendor_2imgui_2docs_2BACKENDS.html#autotoc_md50',1,'']]],
+  ['little_20squares_20are_20showing_20instead_20of_20text_11',['Q: I integrated Dear ImGui in my engine and little squares are showing instead of text...',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md97',1,'']]],
+  ['load_20a_20different_20font_20than_20the_20default_12',['Q: How can I load a different font than the default?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md131',1,'']]],
+  ['load_20multiple_20fonts_13',['Q: How can I load multiple fonts?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md137',1,'']]],
+  ['loading_20font_20data_20embedded_20in_20source_20code_14',['Loading Font Data Embedded In Source Code',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md181',1,'']]],
+  ['loading_20font_20data_20from_20memory_15',['Loading Font Data from Memory',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md178',1,'']]],
+  ['loading_20instructions_16',['Fonts Loading Instructions',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md175',1,'']]],
+  ['lock_17',['lock',['../structgofpp_1_1SingleThreaded_1_1Lock.html',1,'gofpp::SingleThreaded::Lock'],['../structgofpp_1_1MultiThreaded_1_1Lock.html#a8d5128771281032c0722c12d16dec847',1,'gofpp::MultiThreaded::Lock::lock'],['../structgofpp_1_1MultiThreaded_1_1Lock.html#a5cd5c2fb8df95429c7a06838f0a7eb24',1,'gofpp::MultiThreaded::Lock::Lock(MultiThreaded &amp;mt)'],['../structgofpp_1_1SingleThreaded_1_1Lock.html#a3408dd143db353d4c90098695ea5a309',1,'gofpp::SingleThreaded::Lock::Lock(const T &amp;)'],['../structgofpp_1_1SingleThreaded_1_1Lock.html#a184c2cd5ea7d2b5c81fc0a24d3c9522f',1,'gofpp::SingleThreaded::Lock::Lock()'],['../structgofpp_1_1MultiThreaded_1_1Lock.html',1,'gofpp::MultiThreaded::Lock']]],
+  ['logs_18',['logs',['../structHistoryObserver.html#a54ed57a920da2d7dade6d63308951cdc',1,'HistoryObserver']]],
+  ['look_20of_20dear_20imgui_19',['Q: Can you reskin the look of Dear ImGui?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md150',1,'']]],
+  ['low_20level_20imdrawlist_20api_20',['Q: How can I display custom shapes? (using low-level ImDrawList API)',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md126',1,'']]],
+  ['lunasvg_21',['Using lunasvg',['..//home/runner/work/gofpp/gofpp/vendor/imgui/misc/freetype/README.md#autotoc_md264',1,'']]]
 ];

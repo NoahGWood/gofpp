@@ -1,13 +1,17 @@
 <map id="include/gofpp/threading.hpp" name="include/gofpp/threading.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="200,5,404,31"/>
-<area shape="rect" id="Node000002" href="$observer_8hpp.html" title="GoF++ Observer pattern implementation." alt="" coords="5,79,188,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,38,147,81,145,76,258,33"/>
-<area shape="rect" id="Node000004" href="$factory_8hpp.html" title="GoF++ Factory pattern implementation." alt="" coords="213,79,391,119"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,44,305,79,299,79,299,44"/>
-<area shape="rect" id="Node000005" href="$singleton_8hpp.html" title="GoF++ Singleton pattern implementation." alt="" coords="415,79,594,119"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="345,33,457,76,455,81,343,38"/>
-<area shape="rect" id="Node000003" href="$gofpp_8hpp.html" title="Umbrella header for GoF++ patterns." alt="" coords="233,167,371,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,121,273,164,271,169,158,126"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="305,132,305,166,299,166,299,132"/>
-<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="444,126,333,169,331,164,443,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,5,412,31"/>
+<area shape="rect" id="Node000002" href="$observer_8hpp.html" title="GoF++ Observer pattern implementation." alt="" coords="13,79,196,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,38,155,81,153,76,266,33"/>
+<area shape="rect" id="Node000006" href="$factory_8hpp.html" title="GoF++ Factory pattern implementation." alt="" coords="221,79,399,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,44,313,79,307,79,307,44"/>
+<area shape="rect" id="Node000007" href="$singleton_8hpp.html" title="GoF++ Singleton pattern implementation." alt="" coords="423,79,602,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="353,33,465,76,463,81,351,38"/>
+<area shape="rect" id="Node000003" href="$history_8hpp.html" title=" " alt="" coords="5,167,204,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,133,107,166,102,166,102,133"/>
+<area shape="rect" id="Node000004" href="$gofpp_8hpp.html" title="Umbrella header for GoF++ patterns." alt="" coords="241,174,379,199"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,121,284,172,282,176,161,126"/>
+<area shape="rect" id="Node000005" href="$states_8hpp.html" title=" " alt="" coords="211,255,409,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,213,313,254,307,254,307,213"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="313,133,313,174,307,174,307,133"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="457,127,338,176,336,172,454,122"/>
 </map>

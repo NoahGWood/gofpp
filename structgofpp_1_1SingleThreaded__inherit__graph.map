@@ -1,9 +1,7 @@
 <map id="gofpp::SingleThreaded" name="gofpp::SingleThreaded">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,173,102"/>
-<area shape="rect" id="Node000002" href="$classgofpp_1_1Factory.html" title=" " alt="" coords="224,5,389,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,70,237,43,239,48,147,75"/>
-<area shape="rect" id="Node000003" href="$classgofpp_1_1Observable.html" title=" " alt="" coords="221,69,392,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,87,221,87,221,92,187,92"/>
-<area shape="rect" id="Node000004" href="$classgofpp_1_1Singleton.html" title=" " alt="" coords="229,133,384,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,103,239,131,237,136,146,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,264,31"/>
+<area shape="rect" id="Node000002" href="$classgofpp_1_1Factory.html" title=" " alt="" coords="5,79,171,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,42,112,81,108,76,154,38"/>
+<area shape="rect" id="Node000003" href="$classgofpp_1_1Singleton.html" title=" " alt="" coords="195,79,349,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,38,252,76,248,81,202,42"/>
 </map>

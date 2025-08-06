@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['singleton_2ehpp_0',['singleton.hpp',['../singleton_8hpp.html',1,'']]],
-  ['state_2ehpp_1',['state.hpp',['../state_8hpp.html',1,'']]],
-  ['strategy_2ehpp_2',['strategy.hpp',['../strategy_8hpp.html',1,'']]]
+  ['readme_2emd_0',['readme.md',['../README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2docs_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__allegro5_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__apple__metal_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__glfw__wgpu_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__opengl2_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__opengl3_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl2__sdlrenderer2_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2examples_2example__sdl3__opengl3_2README_8md.html',1,'(Global Namespace)'],['../vendor_2imgui_2misc_2freetype_2README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2vendor_2NCLI_2README_8md.html',1,'(Global Namespace)']]]
 ];

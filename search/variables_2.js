@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['lock_0',['lock',['../structgofpp_1_1MultiThreaded_1_1Lock.html#a8d5128771281032c0722c12d16dec847',1,'gofpp::MultiThreaded::Lock']]]
+  ['impl_0',['impl',['../classgofpp_1_1Bridge.html#acd425773cdd34edee1496f73e97a1989',1,'gofpp::Bridge']]],
+  ['inner_1',['inner',['../classgofpp_1_1IDecorator.html#a6d4d2c357cb1f7c8fad9b9e1ec14b645',1,'gofpp::IDecorator']]]
 ];

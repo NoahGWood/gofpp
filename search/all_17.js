@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['readme_2emd_0',['readme.md',['../README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2README_8md.html',1,'(Global Namespace)'],['../vendor_2NTest_2vendor_2NCLI_2README_8md.html',1,'(Global Namespace)']]],
-  ['registertype_1',['registerType',['../classgofpp_1_1Factory.html#a482dfb072250f34c0ca706453d4f630c',1,'gofpp::Factory']]],
-  ['remove_2',['remove',['../classgofpp_1_1Composite.html#aeb8c157081394a85ee9ff6945919d899',1,'gofpp::Composite']]],
-  ['reset_3',['reset',['../classgofpp_1_1IBuilder.html#a29ba0f4f86dab98b0b12c1650ac1206f',1,'gofpp::IBuilder']]],
-  ['run_4',['run',['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md52',1,'2. Compile and run'],['../classgofpp_1_1TemplateBase.html#a2057acb74e80cedaa94508b790d56bca',1,'gofpp::TemplateBase::run()']]]
+  ['new_20dynamic_20fonts_20system_20in_201_2092_20june_202025_0',['New! Dynamic Fonts system in 1.92 (June 2025)',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md169',1,'']]],
+  ['new_20patterns_1',['4. Adding New Patterns',['../md_docs_2CONTRIBUTING.html#autotoc_md9',1,'']]],
+  ['newframe_2',['newFrame',['../classAppFacade.html#a4a16d08e034644b6181b3f58469c9eca',1,'AppFacade']]],
+  ['next_3',['next',['../classgofpp_1_1Handler.html#a4ae77ce91e294f0fdf8565e31f636650',1,'gofpp::Handler::next'],['../classgofpp_1_1Iterator.html#ab64e432054cd35ca7d170bb7f5699989',1,'gofpp::Iterator::next()']]],
+  ['non_20ascii_20strings_4',['(2) Invalid UTF-8 encoding of your non-ASCII strings.',['../md_vendor_2imgui_2docs_2FONTS.html#autotoc_md164',1,'']]],
+  ['non_20latin_20characters_20such_20as_20chinese_20japanese_20korean_20cyrillic_5',['Q: How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md140',1,'']]],
+  ['not_20a_20framework_6',['Not a Framework',['../md_docs_2PHILOSOPHY.html#autotoc_md27',1,'']]],
+  ['not_20reacting_20when_20i_20click_20on_20it_7',['Q: Why is my widget not reacting when I click on it?',['../md_vendor_2imgui_2docs_2FAQ.html#autotoc_md106',1,'']]],
+  ['notify_8',['notify',['../classgofpp_1_1Observable.html#a7cbcb06536224606f14371cabc7cae27',1,'gofpp::Observable::notify()'],['../classgofpp_1_1Mediator.html#a40551eb07bb81634d18735635e0b2d62',1,'gofpp::Mediator::notify()']]]
 ];

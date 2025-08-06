@@ -75,6 +75,7 @@ $(function() {
 <h3><a id="index_a" name="index_a"></a>- a -</h3><ul>
 <li>accept()&#160;:&#160;<a class="el" href="classgofpp_1_1Visitable.html#adf8d6312724e6482f551e1fa17d0ac3f">gofpp::Visitable&lt; VisitorType &gt;</a></li>
 <li>add()&#160;:&#160;<a class="el" href="classgofpp_1_1Composite.html#a0e0c87f22b56e83f9b529f64c2dc66ae">gofpp::Composite&lt; T &gt;</a></li>
+<li>AppFacade()&#160;:&#160;<a class="el" href="classAppFacade.html#ab4466dd8a2d133620f9709faf71220b7">AppFacade</a></li>
 </ul>
 
 
@@ -85,7 +86,11 @@ $(function() {
 
 
 <h3><a id="index_c" name="index_c"></a>- c -</h3><ul>
+<li>CalcCommand()&#160;:&#160;<a class="el" href="structCalcCommand.html#aa27e4178bafaccf2ac55f0e44c5e371d">CalcCommand</a></li>
+<li>canRedo()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#ad39b1561bba0350adb2efd0a24fe3c82">gofpp::CommandStack</a></li>
+<li>canUndo()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#a64415962cfc44035f2efeed7c93020b8">gofpp::CommandStack</a></li>
 <li>changeState()&#160;:&#160;<a class="el" href="classgofpp_1_1StateMachine.html#ad9efdc3b1afd1e954d40b34c28c1050e">gofpp::StateMachine&lt; Context &gt;</a></li>
+<li>clear()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#a16c289a7e451a16a711791516fcec5df">gofpp::CommandStack</a>, <a class="el" href="structHistoryObserver.html#aaaf337abf372983807ae022e9328e452">HistoryObserver</a></li>
 <li>clone()&#160;:&#160;<a class="el" href="structgofpp_1_1Prototype.html#a6278e3b7697302144c0a940e8fa39ba7">gofpp::Prototype&lt; T &gt;</a></li>
 <li>create()&#160;:&#160;<a class="el" href="classgofpp_1_1Factory.html#a4db4de9a825a5539b3026c21622586ca">gofpp::Factory&lt; Base, ThreadPolicy &gt;</a>, <a class="el" href="classgofpp_1_1IAbstractFactory.html#a6220dcf61e0de2d46b94c8a8d0c17a6c">gofpp::IAbstractFactory&lt; AbstractProduct &gt;</a></li>
 </ul>
@@ -97,9 +102,8 @@ $(function() {
 
 
 <h3><a id="index_e" name="index_e"></a>- e -</h3><ul>
-<li>empty()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#aed99668ac54d5df5f7dcc04923d373b3">gofpp::CommandStack</a></li>
 <li>enter()&#160;:&#160;<a class="el" href="classgofpp_1_1State.html#aeb368391d27d42ffb6afa68334f6ee9f">gofpp::State&lt; Context &gt;</a></li>
-<li>execute()&#160;:&#160;<a class="el" href="classgofpp_1_1Context.html#a4ed2653b2fe2f81853d87724a8bd7c57">gofpp::Context&lt; Strategy &gt;</a>, <a class="el" href="structgofpp_1_1ICommand.html#adb9a54c6035b8bf5b42255e1d366bbff">gofpp::ICommand</a></li>
+<li>execute()&#160;:&#160;<a class="el" href="structCalcCommand.html#af64a132e3e6c333917b9deb50324d85e">CalcCommand</a>, <a class="el" href="classgofpp_1_1Context.html#a4ed2653b2fe2f81853d87724a8bd7c57">gofpp::Context&lt; Strategy &gt;</a>, <a class="el" href="structgofpp_1_1ICommand.html#adb9a54c6035b8bf5b42255e1d366bbff">gofpp::ICommand</a></li>
 <li>exit()&#160;:&#160;<a class="el" href="classgofpp_1_1State.html#a984bc0b5437a544dde6f612cca6831fc">gofpp::State&lt; Context &gt;</a></li>
 </ul>
 
@@ -108,6 +112,7 @@ $(function() {
 <li>get()&#160;:&#160;<a class="el" href="classgofpp_1_1FlyweightFactory.html#a93194465ed1573770c4fcd56b0f38aab">gofpp::FlyweightFactory&lt; Key, Value &gt;</a></li>
 <li>getAdapted()&#160;:&#160;<a class="el" href="classgofpp_1_1IAdapter.html#a77ddbf5c873c099978ed433554d4b06f">gofpp::IAdapter&lt; Target &gt;</a></li>
 <li>getContext()&#160;:&#160;<a class="el" href="classgofpp_1_1StateMachine.html#ab4281db3f859952c0715955b191cf6e1">gofpp::StateMachine&lt; Context &gt;</a></li>
+<li>getWindow()&#160;:&#160;<a class="el" href="classAppFacade.html#a4339fc89ca1becf4af8eac57578d0dcb">AppFacade</a></li>
 </ul>
 
 
@@ -137,26 +142,33 @@ $(function() {
 
 
 <h3><a id="index_n" name="index_n"></a>- n -</h3><ul>
+<li>newFrame()&#160;:&#160;<a class="el" href="classAppFacade.html#a4a16d08e034644b6181b3f58469c9eca">AppFacade</a></li>
 <li>next()&#160;:&#160;<a class="el" href="classgofpp_1_1Iterator.html#ab64e432054cd35ca7d170bb7f5699989">gofpp::Iterator&lt; Container &gt;</a></li>
-<li>notify()&#160;:&#160;<a class="el" href="classgofpp_1_1Mediator.html#a40551eb07bb81634d18735635e0b2d62">gofpp::Mediator</a>, <a class="el" href="classgofpp_1_1Observable.html#af9fccfc9e165e12e8495ba08ae43ebec">gofpp::Observable&lt; Event, ThreadPolicy &gt;</a></li>
+<li>notify()&#160;:&#160;<a class="el" href="classgofpp_1_1Mediator.html#a40551eb07bb81634d18735635e0b2d62">gofpp::Mediator</a>, <a class="el" href="classgofpp_1_1Observable.html#a7cbcb06536224606f14371cabc7cae27">gofpp::Observable&lt; T, ThreadPolicy &gt;</a></li>
 </ul>
 
 
 <h3><a id="index_o" name="index_o"></a>- o -</h3><ul>
+<li>onNotify()&#160;:&#160;<a class="el" href="classgofpp_1_1Observer.html#adedfe2ba9bca3461d43d9cb9feb0078b">gofpp::Observer&lt; T &gt;</a>, <a class="el" href="structHistoryObserver.html#afbafe11cbbe4a59ad739d733b528559e">HistoryObserver</a></li>
 <li>operation()&#160;:&#160;<a class="el" href="classgofpp_1_1Composite.html#a5a6ca0cd9031f26e9e576b92dcb2bc01">gofpp::Composite&lt; T &gt;</a></li>
 <li>operator=()&#160;:&#160;<a class="el" href="classgofpp_1_1Singleton.html#a15f04b491d8993cbbc9625ad2fde1e2f">gofpp::Singleton&lt; T, ThreadPolicy &gt;</a></li>
 </ul>
 
 
 <h3><a id="index_r" name="index_r"></a>- r -</h3><ul>
+<li>redo()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#ac170f965de492fa323d8fd737d19e7a8">gofpp::CommandStack</a></li>
 <li>registerType()&#160;:&#160;<a class="el" href="classgofpp_1_1Factory.html#a482dfb072250f34c0ca706453d4f630c">gofpp::Factory&lt; Base, ThreadPolicy &gt;</a></li>
 <li>remove()&#160;:&#160;<a class="el" href="classgofpp_1_1Composite.html#aeb8c157081394a85ee9ff6945919d899">gofpp::Composite&lt; T &gt;</a></li>
+<li>render()&#160;:&#160;<a class="el" href="classAppFacade.html#a919501b510c2cbd2524d909b46d9f066">AppFacade</a></li>
+<li>renderUI()&#160;:&#160;<a class="el" href="structBasicState.html#a098905f7b5d5c611c99153997e3e8855">BasicState</a>, <a class="el" href="structCalculatorState.html#a6fd6be507b734013c70e8fbbfbf1f153">CalculatorState</a>, <a class="el" href="structScientificState.html#aadbec4669120f93aa0904bfef41c6297">ScientificState</a></li>
 <li>reset()&#160;:&#160;<a class="el" href="classgofpp_1_1IBuilder.html#a29ba0f4f86dab98b0b12c1650ac1206f">gofpp::IBuilder&lt; Product, Derived &gt;</a></li>
+<li>restore()&#160;:&#160;<a class="el" href="structCalcOriginator.html#a2f1884be32f96d290366dc05d667e0aa">CalcOriginator</a></li>
 <li>run()&#160;:&#160;<a class="el" href="classgofpp_1_1TemplateBase.html#a2057acb74e80cedaa94508b790d56bca">gofpp::TemplateBase</a></li>
 </ul>
 
 
 <h3><a id="index_s" name="index_s"></a>- s -</h3><ul>
+<li>save()&#160;:&#160;<a class="el" href="structCalcOriginator.html#a724487adbaf3eaa4a897620bfaa2e0bf">CalcOriginator</a></li>
 <li>setImpl()&#160;:&#160;<a class="el" href="classgofpp_1_1Bridge.html#a97dfd687a7c87ae6fa458708b50eb2c6">gofpp::Bridge&lt; Impl &gt;</a></li>
 <li>setNext()&#160;:&#160;<a class="el" href="classgofpp_1_1Handler.html#aa62a6a99a6230e9a135d16b365d2fdeb">gofpp::Handler&lt; Request &gt;</a></li>
 <li>setStrategy()&#160;:&#160;<a class="el" href="classgofpp_1_1Context.html#ab86261418ff41d9c9aab36b988de6d74">gofpp::Context&lt; Strategy &gt;</a></li>
@@ -165,13 +177,13 @@ $(function() {
 <li>StateMachine()&#160;:&#160;<a class="el" href="classgofpp_1_1StateMachine.html#aca22601237cfeeefb248779675d4529a">gofpp::StateMachine&lt; Context &gt;</a></li>
 <li>step1()&#160;:&#160;<a class="el" href="classgofpp_1_1TemplateBase.html#a3e66a7040eee24fff0ce7c0d7ec982bb">gofpp::TemplateBase</a></li>
 <li>step2()&#160;:&#160;<a class="el" href="classgofpp_1_1TemplateBase.html#a64e0e987c136bae92c3263fa713289ab">gofpp::TemplateBase</a></li>
-<li>subscribe()&#160;:&#160;<a class="el" href="classgofpp_1_1Observable.html#a5328d26af829ea81916dfe9c275144bc">gofpp::Observable&lt; Event, ThreadPolicy &gt;</a></li>
+<li>subscribe()&#160;:&#160;<a class="el" href="classgofpp_1_1Observable.html#a1ff6d95c634093a5a8c75fe3ae6d98e9">gofpp::Observable&lt; T, ThreadPolicy &gt;</a></li>
 </ul>
 
 
 <h3><a id="index_u" name="index_u"></a>- u -</h3><ul>
-<li>undo()&#160;:&#160;<a class="el" href="classgofpp_1_1CommandStack.html#aa9470024e5eca56ecceb9dd846c78b78">gofpp::CommandStack</a>, <a class="el" href="structgofpp_1_1ICommand.html#ab39218398dba69ab2794b096a4bd9bad">gofpp::ICommand</a></li>
-<li>unsubscribe()&#160;:&#160;<a class="el" href="classgofpp_1_1Observable.html#a0a96597ac0cbcf530473d77242d25f03">gofpp::Observable&lt; Event, ThreadPolicy &gt;</a></li>
+<li>undo()&#160;:&#160;<a class="el" href="structCalcCommand.html#ae077a8dd67bd00bc72a9b1e3ee428eae">CalcCommand</a>, <a class="el" href="classgofpp_1_1CommandStack.html#aa9470024e5eca56ecceb9dd846c78b78">gofpp::CommandStack</a>, <a class="el" href="structgofpp_1_1ICommand.html#ab39218398dba69ab2794b096a4bd9bad">gofpp::ICommand</a></li>
+<li>unsubscribe()&#160;:&#160;<a class="el" href="classgofpp_1_1Observable.html#a2c1eb8db86de126a4639a2618c0493f7">gofpp::Observable&lt; T, ThreadPolicy &gt;</a></li>
 <li>update()&#160;:&#160;<a class="el" href="classgofpp_1_1State.html#ad780339088b9fbc451519576a133493f">gofpp::State&lt; Context &gt;</a>, <a class="el" href="classgofpp_1_1StateMachine.html#a7d60553798f71c4cab744f6cd8428e9d">gofpp::StateMachine&lt; Context &gt;</a></li>
 </ul>
 
@@ -182,6 +194,8 @@ $(function() {
 
 
 <h3><a id="index__7E" name="index__7E"></a>- ~ -</h3><ul>
+<li>~AppFacade()&#160;:&#160;<a class="el" href="classAppFacade.html#ab202089d28f44653904db3f5b8c4ee65">AppFacade</a></li>
+<li>~CalculatorState()&#160;:&#160;<a class="el" href="structCalculatorState.html#aacdf8527b33926e1fa34e669010ad4de">CalculatorState</a></li>
 <li>~Composite()&#160;:&#160;<a class="el" href="classgofpp_1_1Composite.html#ac31184e8b04d81861dfcbf283e735e65">gofpp::Composite&lt; T &gt;</a></li>
 <li>~Expression()&#160;:&#160;<a class="el" href="classgofpp_1_1Expression.html#a9f92dd0f164733ca35ba3a01a514a4a1">gofpp::Expression&lt; Result &gt;</a></li>
 <li>~Handler()&#160;:&#160;<a class="el" href="classgofpp_1_1Handler.html#ac785f160c8b2bad9f99333a7758eaa3a">gofpp::Handler&lt; Request &gt;</a></li>
@@ -191,6 +205,7 @@ $(function() {
 <li>~ICommand()&#160;:&#160;<a class="el" href="structgofpp_1_1ICommand.html#a4a6875c6e1670d822dd80f310749aebd">gofpp::ICommand</a></li>
 <li>~IFacade()&#160;:&#160;<a class="el" href="classgofpp_1_1IFacade.html#abe2359d96268e8ff61d4c19ba770c671">gofpp::IFacade</a></li>
 <li>~Mediator()&#160;:&#160;<a class="el" href="classgofpp_1_1Mediator.html#ac8ddaf8c0c8b8541f18796bbbe0039e6">gofpp::Mediator</a></li>
+<li>~Observer()&#160;:&#160;<a class="el" href="classgofpp_1_1Observer.html#a6f34a3905798a3f85d8638347f031d4f">gofpp::Observer&lt; T &gt;</a></li>
 <li>~Prototype()&#160;:&#160;<a class="el" href="structgofpp_1_1Prototype.html#a981b1d215e0cd926c04aff9027ddc62a">gofpp::Prototype&lt; T &gt;</a></li>
 <li>~Singleton()&#160;:&#160;<a class="el" href="classgofpp_1_1Singleton.html#a328a8011c3a92052907971e9fa69d8e4">gofpp::Singleton&lt; T, ThreadPolicy &gt;</a></li>
 <li>~State()&#160;:&#160;<a class="el" href="classgofpp_1_1State.html#ae158bf53ab33fe8d801b8ca386fd045d">gofpp::State&lt; Context &gt;</a></li>

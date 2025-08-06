@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['next_0',['next',['../classgofpp_1_1Handler.html#a4ae77ce91e294f0fdf8565e31f636650',1,'gofpp::Handler']]]
+  ['m_0',['m',['../structgofpp_1_1MultiThreaded.html#a66077cebad35cbd1239d84dafc1d0f77',1,'gofpp::MultiThreaded']]]
 ];

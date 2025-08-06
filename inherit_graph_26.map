@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structgofpp_1_1SingleThreaded.html" title=" " alt="" coords="5,45,173,70"/>
+<area shape="rect" id="Node000001" href="$classgofpp_1_1Factory.html" title=" " alt="" coords="221,5,387,45"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="187,40,221,35,222,40,187,45"/>
+<area shape="rect" id="Node000002" href="$classgofpp_1_1Singleton.html" title=" " alt="" coords="227,69,381,109"/>
+<area shape="poly" id="edge7_Node000000_Node000002" title=" " alt="" coords="188,69,227,75,226,80,187,75"/>
+</map>

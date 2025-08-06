@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bridge_0',['Bridge',['../classgofpp_1_1Bridge.html',1,'gofpp']]]
+  ['appfacade_0',['AppFacade',['../classAppFacade.html',1,'']]]
 ];
