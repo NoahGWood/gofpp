@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['cases_0',['Intended Use Cases',['../md_docs_2PHILOSOPHY.html#autotoc_md25',1,'']]],
+  ['chain_5fof_5fresponsibility_2ehpp_1',['chain_of_responsibility.hpp',['../chain__of__responsibility_8hpp.html',1,'']]],
+  ['changestate_2',['changeState',['../classgofpp_1_1StateMachine.html#ad9efdc3b1afd1e954d40b34c28c1050e',1,'gofpp::StateMachine']]],
+  ['children_3',['children',['../classgofpp_1_1Composite.html#a72f7deb06f57d40fe86ac2b04c8635b2',1,'gofpp::Composite']]],
+  ['clone_4',['clone',['../structgofpp_1_1Prototype.html#a6278e3b7697302144c0a940e8fa39ba7',1,'gofpp::Prototype']]],
+  ['code_20style_5',['3. Code Style',['../md_docs_2CONTRIBUTING.html#autotoc_md7',1,'']]],
+  ['color_20and_20customization_6',['Color and Customization',['..//home/runner/work/gofpp/gofpp/vendor/NTest/vendor/NCLI/README.md#autotoc_md63',1,'']]],
+  ['command_2ehpp_7',['command.hpp',['../command_8hpp.html',1,'']]],
+  ['commandstack_8',['CommandStack',['../classgofpp_1_1CommandStack.html',1,'gofpp']]],
+  ['compile_20and_20run_9',['2. Compile and run',['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md52',1,'']]],
+  ['composite_10',['Composite',['../classgofpp_1_1Composite.html',1,'gofpp']]],
+  ['composite_2ehpp_11',['composite.hpp',['../composite_8hpp.html',1,'']]],
+  ['context_12',['Context',['../classgofpp_1_1Context.html',1,'gofpp']]],
+  ['contributing_13',['contributing',['../md_docs_2CONTRIBUTING.html',1,'Contributing'],['../index.html#autotoc_md42',1,'Contributing']]],
+  ['contributing_2emd_14',['CONTRIBUTING.md',['../CONTRIBUTING_8md.html',1,'']]],
+  ['contribution_20flow_15',['8. Example Contribution Flow',['../md_docs_2CONTRIBUTING.html#autotoc_md17',1,'']]],
+  ['core_20guidelines_16',['Core Guidelines',['../md_docs_2CONTRIBUTING.html#autotoc_md2',1,'']]],
+  ['core_20principles_17',['Core Principles',['../md_docs_2PHILOSOPHY.html#autotoc_md24',1,'']]],
+  ['create_18',['create',['../classgofpp_1_1IAbstractFactory.html#a6220dcf61e0de2d46b94c8a8d0c17a6c',1,'gofpp::IAbstractFactory::create()'],['../classgofpp_1_1Factory.html#a4db4de9a825a5539b3026c21622586ca',1,'gofpp::Factory::create()']]],
+  ['create_20a_20test_20file_19',['1. Create a test file',['..//home/runner/work/gofpp/gofpp/vendor/NTest/README.md#autotoc_md51',1,'']]],
+  ['creational_20',['Creational',['../index.html#autotoc_md38',1,'']]],
+  ['creator_21',['Creator',['../classgofpp_1_1Factory.html#aba30ea4a0bdb0cc1124fb21d3e6fa9bd',1,'gofpp::Factory']]],
+  ['customization_22',['Color and Customization',['..//home/runner/work/gofpp/gofpp/vendor/NTest/vendor/NCLI/README.md#autotoc_md63',1,'']]]
+];

@@ -1,0 +1,7 @@
+<map id="include/gofpp/structural/composite.hpp" name="include/gofpp/structural/composite.hpp">
+<area shape="rect" id="Node000001" title="GoF++ Composite pattern implementation." alt="" coords="5,5,181,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,93,75,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,47,61,83,56,80,79,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,93,185,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,44,130,80,126,83,103,47"/>
+</map>

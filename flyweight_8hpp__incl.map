@@ -1,0 +1,7 @@
+<map id="include/gofpp/structural/flyweight.hpp" name="include/gofpp/structural/flyweight.hpp">
+<area shape="rect" id="Node000001" title="GoF++ Flyweight pattern implementation." alt="" coords="42,5,218,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,129,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,47,87,84,83,81,113,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="154,93,231,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,44,177,81,173,84,143,47"/>
+</map>

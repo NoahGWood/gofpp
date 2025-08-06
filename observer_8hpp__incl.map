@@ -1,0 +1,12 @@
+<map id="include/gofpp/behavioral/observer.hpp" name="include/gofpp/behavioral/observer.hpp">
+<area shape="rect" id="Node000001" title="GoF++ Observer pattern implementation." alt="" coords="136,5,319,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,92,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,48,88,90,86,85,183,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="116,93,240,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,47,195,83,190,80,213,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="303,167,367,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,44,321,154,317,157,239,47"/>
+<area shape="rect" id="Node000005" href="$threading_8hpp.html" title=" " alt="" coords="316,93,469,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="268,43,357,85,355,90,266,48"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="385,121,355,158,351,154,381,117"/>
+</map>

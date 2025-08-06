@@ -1,0 +1,83 @@
+<map id="include/gofpp.hpp" name="include/gofpp.hpp">
+<area shape="rect" id="Node000001" title="Umbrella header for GoF++ patterns." alt="" coords="2641,5,2779,31"/>
+<area shape="rect" id="Node000002" href="$singleton_8hpp.html" title="GoF++ Singleton pattern implementation." alt="" coords="5,86,225,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2640,22,2185,27,1489,37,768,54,465,67,237,81,193,87,192,81,236,76,465,61,768,49,1489,31,2185,21,2640,17"/>
+<area shape="rect" id="Node000005" href="$factory_8hpp.html" title="GoF++ Factory pattern implementation." alt="" coords="493,86,697,111"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="2641,23,1705,39,1131,57,890,68,709,81,669,86,668,81,708,76,890,63,1130,52,1705,34,2641,17"/>
+<area shape="rect" id="Node000010" href="$abstract__factory_8hpp.html" title="GoF++ Abstract Factory pattern implementation." alt="" coords="1443,79,1628,119"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="2640,23,2467,27,2222,37,1936,54,1642,81,1642,76,1936,49,2221,31,2467,22,2640,18"/>
+<area shape="rect" id="Node000011" href="$builder_8hpp.html" title="GoF++ Builder pattern implementation." alt="" coords="2847,86,3051,111"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="2746,28,2902,79,2900,84,2744,33"/>
+<area shape="rect" id="Node000012" href="$prototype_8hpp.html" title="GoF++ Prototype pattern implementation." alt="" coords="1652,86,1875,111"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="2641,25,2315,44,2102,60,1886,81,1846,87,1845,81,1886,76,2101,55,2314,39,2640,20"/>
+<area shape="rect" id="Node000013" href="$composite_8hpp.html" title="GoF++ Composite pattern implementation." alt="" coords="2597,86,2823,111"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="2713,31,2713,72,2707,72,2707,31"/>
+<area shape="rect" id="Node000016" href="$bridge_8hpp.html" title="GoF++ Bridge pattern implementation." alt="" coords="1899,86,2097,111"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="2641,27,2405,48,2110,81,2076,86,2075,81,2110,76,2405,43,2640,22"/>
+<area shape="rect" id="Node000017" href="$mediator_8hpp.html" title="GoF++ Mediator pattern implementation." alt="" coords="963,86,1177,111"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="2641,22,2401,24,2044,31,1622,49,1404,63,1190,81,1148,87,1147,81,1190,76,1403,58,1621,44,2043,26,2401,18,2640,17"/>
+<area shape="rect" id="Node000018" href="$adapter_8hpp.html" title="GoF++ Adapter pattern implementation." alt="" coords="3075,86,3281,111"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="2778,28,3097,81,3096,86,2778,33"/>
+<area shape="rect" id="Node000019" href="$decorator_8hpp.html" title="GoF++ Decorator pattern implementation." alt="" coords="3306,86,3525,111"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="2780,23,3008,44,3293,76,3332,81,3331,87,3292,81,3008,49,2779,28"/>
+<area shape="rect" id="Node000020" href="$facade_8hpp.html" title="GoF++ Facade pattern implementation." alt="" coords="3549,86,3751,111"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="2779,19,3107,38,3321,54,3537,76,3574,81,3574,86,3536,81,3320,59,3106,43,2779,25"/>
+<area shape="rect" id="Node000021" href="$flyweight_8hpp.html" title="GoF++ Flyweight pattern implementation." alt="" coords="721,86,939,111"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="2641,21,2369,21,1952,28,1458,46,1201,61,950,81,908,87,907,81,950,76,1201,56,1457,40,1952,22,2369,16,2641,16"/>
+<area shape="rect" id="Node000022" href="$proxy_8hpp.html" title="GoF++ Proxy pattern implementation." alt="" coords="3775,86,3967,111"/>
+<area shape="poly" id="edge29_Node000001_Node000022" title=" " alt="" coords="2780,18,3196,33,3477,50,3762,76,3799,81,3798,86,3762,81,3477,55,3196,38,2780,23"/>
+<area shape="rect" id="Node000023" href="$observer_8hpp.html" title="GoF++ Observer pattern implementation." alt="" coords="249,86,469,111"/>
+<area shape="poly" id="edge30_Node000001_Node000023" title=" " alt="" coords="2641,23,1601,39,955,56,685,68,481,81,437,87,436,81,480,76,685,62,955,51,1600,33,2641,17"/>
+<area shape="rect" id="Node000024" href="$command_8hpp.html" title="GoF++ Command pattern implementation." alt="" coords="2343,86,2573,111"/>
+<area shape="poly" id="edge35_Node000001_Node000024" title=" " alt="" coords="2674,33,2509,84,2507,79,2673,28"/>
+<area shape="rect" id="Node000025" href="$state_8hpp.html" title="GoF++ State pattern implementation." alt="" coords="2122,86,2319,111"/>
+<area shape="poly" id="edge38_Node000001_Node000025" title=" " alt="" coords="2641,33,2332,81,2301,86,2300,81,2331,76,2640,27"/>
+<area shape="rect" id="Node000026" href="$chain__of__responsibility_8hpp.html" title="GoF++ Chain of Responsibility pattern implementation." alt="" coords="3991,79,4162,119"/>
+<area shape="poly" id="edge40_Node000001_Node000026" title=" " alt="" coords="2779,16,2982,18,3276,26,3622,44,3801,58,3978,76,3978,81,3801,63,3621,49,3276,31,2981,24,2779,22"/>
+<area shape="rect" id="Node000027" href="$strategy_8hpp.html" title="GoF++ Strategy pattern implementation." alt="" coords="1202,86,1418,111"/>
+<area shape="poly" id="edge41_Node000001_Node000027" title=" " alt="" coords="2640,23,2435,26,2136,35,1786,53,1430,81,1388,87,1388,81,1430,76,1786,48,2135,30,2435,21,2640,17"/>
+<area shape="rect" id="Node000028" href="$template__method_8hpp.html" title="GoF++ Template Method pattern implementation." alt="" coords="4186,79,4381,119"/>
+<area shape="poly" id="edge43_Node000001_Node000028" title=" " alt="" coords="2780,16,3009,18,3351,25,3755,43,3965,57,4172,76,4172,81,3965,63,3755,48,3350,30,3009,23,2780,22"/>
+<area shape="rect" id="Node000029" href="$iterator_8hpp.html" title="GoF++ Iterator pattern implementation." alt="" coords="4405,86,4615,111"/>
+<area shape="poly" id="edge44_Node000001_Node000029" title=" " alt="" coords="2780,16,3041,16,3439,23,3910,41,4154,56,4393,76,4434,81,4434,86,4392,81,4154,61,3910,46,3439,28,3041,22,2780,21"/>
+<area shape="rect" id="Node000031" href="$memento_8hpp.html" title="GoF++ Memento pattern implementation." alt="" coords="4639,86,4866,111"/>
+<area shape="poly" id="edge46_Node000001_Node000031" title=" " alt="" coords="2779,18,3677,36,4225,54,4454,64,4628,76,4673,81,4672,87,4627,81,4454,70,4225,59,3677,42,2779,23"/>
+<area shape="rect" id="Node000032" href="$interpreter_8hpp.html" title="GoF++ Interpreter pattern implementation." alt="" coords="4890,86,5122,111"/>
+<area shape="poly" id="edge47_Node000001_Node000032" title=" " alt="" coords="2780,17,3792,35,4418,52,4680,63,4878,76,4925,81,4925,87,4878,81,4680,69,4418,57,3792,40,2780,23"/>
+<area shape="rect" id="Node000033" href="$visitor_8hpp.html" title="GoF++ Visitor pattern implementation." alt="" coords="5147,86,5351,111"/>
+<area shape="poly" id="edge48_Node000001_Node000033" title=" " alt="" coords="2780,17,3227,21,3908,31,4614,48,4911,61,5134,76,5176,81,5175,87,5134,81,4911,66,4614,54,3908,36,3227,26,2780,22"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="213,240,277,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,111,133,149,144,170,157,190,182,213,210,231,207,236,179,217,153,194,139,173,128,151,116,113"/>
+<area shape="rect" id="Node000004" href="$threading_8hpp.html" title=" " alt="" coords="168,167,321,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="136,109,215,157,213,162,133,114"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="247,192,247,226,242,226,242,192"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="545,114,309,166,308,161,544,109"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="411,167,497,192"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="576,114,488,162,486,158,573,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="533,167,657,192"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="598,112,598,153,593,153,593,112"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1610,167,1687,192"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="658,109,709,116,970,141,1225,158,1596,174,1596,179,1225,163,969,146,708,121,657,114"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="862,167,921,192"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="639,109,849,164,848,169,638,114"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="1564,117,1622,156,1619,161,1561,121"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="1748,114,1678,161,1675,157,1745,109"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="2503,167,2565,192"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="2685,114,2573,164,2571,159,2683,109"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2667,167,2753,192"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="2713,112,2713,153,2707,153,2707,112"/>
+<area shape="poly" id="edge20_Node000016_Node000008" title=" " alt="" coords="1948,114,1701,169,1700,164,1947,109"/>
+<area shape="poly" id="edge22_Node000017_Node000009" title=" " alt="" coords="1045,114,931,164,929,159,1043,109"/>
+<area shape="poly" id="edge27_Node000021_Node000007" title=" " alt="" coords="797,114,643,165,641,160,795,109"/>
+<area shape="poly" id="edge28_Node000021_Node000008" title=" " alt="" coords="898,109,950,116,1136,136,1320,152,1596,172,1596,177,1320,157,1136,141,950,121,897,114"/>
+<area shape="poly" id="edge33_Node000023_Node000003" title=" " alt="" coords="361,112,354,150,346,173,335,194,311,218,284,236,281,231,308,213,331,190,342,171,349,149,356,111"/>
+<area shape="poly" id="edge34_Node000023_Node000004" title=" " alt="" coords="344,114,274,161,271,157,341,109"/>
+<area shape="poly" id="edge31_Node000023_Node000006" title=" " alt="" coords="375,109,431,156,428,160,372,114"/>
+<area shape="poly" id="edge32_Node000023_Node000007" title=" " alt="" coords="394,109,549,160,547,165,393,114"/>
+<area shape="poly" id="edge36_Node000024_Node000008" title=" " alt="" coords="2386,114,2332,121,1971,157,1701,177,1701,172,1971,151,2331,116,2385,109"/>
+<area shape="poly" id="edge37_Node000024_Node000014" title=" " alt="" coords="2471,110,2515,155,2511,159,2467,113"/>
+<area shape="poly" id="edge39_Node000025_Node000008" title=" " alt="" coords="2155,114,2109,121,1701,175,1701,169,2108,116,2155,109"/>
+<area shape="poly" id="edge42_Node000027_Node000008" title=" " alt="" coords="1360,109,1597,163,1596,169,1359,114"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="4475,167,4545,192"/>
+<area shape="poly" id="edge45_Node000029_Node000030" title=" " alt="" coords="4513,112,4513,153,4507,153,4507,112"/>
+</map>

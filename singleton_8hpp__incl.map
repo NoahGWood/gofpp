@@ -1,0 +1,8 @@
+<map id="include/gofpp/creational/singleton.hpp" name="include/gofpp/creational/singleton.hpp">
+<area shape="rect" id="Node000001" title="GoF++ Singleton pattern implementation." alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,167,127,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,47,69,80,65,99,67,118,82,154,77,156,61,119,60,99,64,78,79,44"/>
+<area shape="rect" id="Node000003" href="$threading_8hpp.html" title=" " alt="" coords="75,93,229,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,44,137,80,133,84,106,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="145,121,115,158,111,154,140,117"/>
+</map>
